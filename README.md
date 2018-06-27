@@ -1,1 +1,1 @@
-# javascript-algorithms-implementation
+# JavaScript Algorithms Implementation
